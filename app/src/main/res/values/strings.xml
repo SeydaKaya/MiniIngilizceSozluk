@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiniFransizcaSozluk</string>
+    <string name="numbers">SAYILAR</string>
+    <string name="colors">RENKLER</string>
+    <string name="phrases">KALIP CÜMLELER</string>
+    <string name="family">AİLE</string>
+</resources>
